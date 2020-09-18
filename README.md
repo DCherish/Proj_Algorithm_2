@@ -8,7 +8,7 @@
 - [x] Visual Studio  
 ### 프로젝트 결과 (간략)
 <img src="/image/d1.png" width="700px" height="400px" alt="BlockDiagram"></img><br/><br/>
-<img src="/image/d2.png" width="420px" height="380px" alt="BlockDiagram"></img><br/>
+<img src="/image/d2.png" width="4500px" height="390px" alt="BlockDiagram"></img><br/>
 > **KMP Algorithm**과 **Boyer-Moore Algorithm**을 서로 비교 및 분석한 결과 (데이터 개수 및 실행시간)  
 > > **KMP Algorithm > BM Algorithm**  
 > > 각각의 **실행 시간**은 **발생 횟수**와 **패턴의 길이**에 따라 결정  
