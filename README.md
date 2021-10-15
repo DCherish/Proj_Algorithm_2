@@ -2,7 +2,7 @@
 
 <div align="center">
 
- 💜 *Algorithm Project 1*
+ 💜 *Algorithm Project 2*
 
 </div>
 
@@ -16,7 +16,7 @@
 - [x] Visual Studio  
 
 # 💛 프로젝트 결과 (간략)
-<img src="/image/d1.png" width="700px" height="400px" alt="BlockDiagram"></img><br/><br/>
+<img src="/image/d1.png" width="700px" height="400px" alt="BlockDiagram"></img><br/>
 <img src="/image/d2.png" width="450px" height="390px" alt="BlockDiagram"></img><br/>
 > **KMP Algorithm**과 **Boyer-Moore Algorithm**을 서로 비교 및 분석한 결과 (데이터 개수 및 실행시간)  
 
@@ -26,11 +26,19 @@
 
 ---
 
-<img src="/image/d3.png" width="700px" height="200px" alt="BlockDiagram"></img><br/><br/>
+<img src="/image/d3.png" width="700px" height="200px" alt="BlockDiagram"></img><br/>
 <img src="/image/d4.png" width="420px" height="380px" alt="BlockDiagram"></img><br/>
 > **Worst Case**에서 비교 및 분석한 결과 (데이터 개수 및 실행시간)  
 
 
 👉 **Boyer-Moore Algorithm > KMP Algorithm**  
 👉 메모장에 텍스트가 D로 꽉 차있는 경우에서 패턴을 ZDDDDD로 입력하여 **찾지 못하는 최악의 경우**를 실행  
-👉 그 결과, **KMP Algorithm**이 **Boyer-Moore Algorithm**에 비해 성능이 좋다는 것을 확인
+👉 그 결과, **KMP Algorithm**이 **Boyer-Moore Algorithm**에 비해 성능이 좋다는 것을 확인  
+
+---
+
+# ⚠️ License
+The theme is available as open source under the terms of the [MIT License](https://github.com/DCherish/Proj_Algorithm_2/blob/master/LICENSE).  
+###### *When you use this project, It would appreciate it if you could press the Star button*(⭐).
+
+---
